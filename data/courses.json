@@ -29,15 +29,17 @@
     },
     {
         "in": 5,
-        "name": "Bulma",
-        "img": "",
-        "description": ""
+        "name": "Bulma.io",
+        "img": "data:image/png;base64,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",
+        "heading": "Bulma the modern CSS framework that just works",
+        "description": "Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces. Sass tools used by Bulma and available for you"
     },
     {
         "in": 6,
         "name": "Milligram",
-        "img": "",
-        "description": ""
+        "img": "https://i.pinimg.com/474x/26/71/c8/2671c8cca7351adf04d45b4c3c524144--web-development-minimalist.jpg",
+        "heading": "A minimalist CSS framework",
+        "description": "Milligram provides a minimal setup of styles for a fast and clean starting point. Just it! Only 2kb gzipped! It's not about a UI framework. Specially designed for better performance and higher productivity with fewer properties to reset resulting in cleaner code. Hope you enjoy!"
     }
 
 ]
