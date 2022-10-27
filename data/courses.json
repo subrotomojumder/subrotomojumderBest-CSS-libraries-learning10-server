@@ -2,6 +2,7 @@
     {
         "id": "01",
         "name": "Bootstrap",
+        "pirce": "350",
         "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--LTUFkuK5--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://imgur.com/Mj3H69v.png",
         "heading": "Build fast, responsive sites with Bootstrap",
         "description": "Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins."
@@ -9,13 +10,15 @@
     {
         "id": "02",
         "name": "Tailwind CSS",
-        "img": "data:image/jpeg;base64,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",
+        "pirce": "400",
+        "img": "https://wp.5balloons.info/wp-content/uploads/2022/06/install-tailwindcss.png",
         "heading": "Rapidly build modern websites without ever leaving your HTML",
         "description": "Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file."
     },
     {
         "id": "03",
         "name": "Animate.css",
+        "pirce": "250",
         "img": "https://i.ytimg.com/vi/2a2p2FhBgfA/maxresdefault.jpg",
         "heading": "Just-add-water CSS animations",
         "description": "Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints."
@@ -23,6 +26,7 @@
     {
         "id": "04",
         "name": "Semantic UI",
+        "pirce": "150",
         "img": "https://miro.medium.com/max/1400/1*FlOI8jMJTxvI8cz1KVvHjg.jpeg",
         "heading": "User Interface is the language of the web",
         "description": "Semantic UI packaged Gulp build tools so your project can preserve its own theme changes.The easiest way to install Semantic UI is our NPM package which contains special install scripts to make setup interactive and updates seamless. For installing with specific integrations like Ember, React, or Meteor, see our integration guide"
@@ -30,6 +34,7 @@
     {
         "id": "05",
         "name": "Bulma.io",
+        "pirce": "350",
         "img": "data:image/png;base64,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",
         "heading": "Bulma the modern CSS framework that just works",
         "description": "Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces. Sass tools used by Bulma and available for you"
@@ -37,6 +42,7 @@
     {
         "id": "06",
         "name": "Milligram",
+        "pirce": "220",
         "img": "https://i.pinimg.com/474x/26/71/c8/2671c8cca7351adf04d45b4c3c524144--web-development-minimalist.jpg",
         "heading": "A minimalist CSS framework",
         "description": "Milligram provides a minimal setup of styles for a fast and clean starting point. Just it! Only 2kb gzipped! It's not about a UI framework. Specially designed for better performance and higher productivity with fewer properties to reset resulting in cleaner code. Hope you enjoy!"
